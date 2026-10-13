@@ -1,0 +1,17 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+crash.log
+# Secrets and local config
+.env
+kubeconfig*
+# Python / Go
+__pycache__/
+.venv/
+bin/
+# Models and data
+*.safetensors
+*.gguf
+data/
