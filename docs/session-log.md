@@ -7,7 +7,7 @@ When something breaks and you fix it, add symptom, cause, and fix. These become 
 - Did: created the repo with the design doc layout, teardown script, and this log.
 - Next: EKS Workshop setup, then create the EKS Workshop teardown script.
 
-## 2027-10-13
+## 2026-10-13
 - Created a [KubeKloud account](https://kodekloud.com/).
 - Finished the [Crash Course: Kubernetes For Absolute Beginners](https://learn.kodekloud.com/learn/courses/crash-course-kubernetes-for-absolute-beginners)
 - Created a [KubeKloud Engineer account](https://engineer.kodekloud.com/practice).
