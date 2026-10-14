@@ -1,6 +1,7 @@
 # EKS LLM Platform Project: Design Doc
 
 **Working title:** `hive`
+
 **Goal:** a production-shaped LLM platform on EKS (OpenAI-compatible chat API plus retrieval-augmented generation) that produces honest resume lines for Kubernetes, GitOps, observability, LLM serving, and Go, and doubles as your interview story for the K8s gap.
 **Prereq:** AWS EKS Workshop (in progress).
 **Corpus:** the Kubernetes documentation (CC BY 4.0). You end up with a bot that answers questions about the system it runs on, which makes for a good demo and doubles as study material.
